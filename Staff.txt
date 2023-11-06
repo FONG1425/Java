@@ -1,0 +1,6 @@
+ST001|wenc|019-2222222|111111-11-1111|wc@gmail.com|wenc1234|2
+ST002|winghey|019-2020202|222222-22-2222|wh@gmail.com|winghey1|1
+ST003|wingsam|012-3456789|000000-00-0000|wing@gmail.com|12345678|2
+ST004|junhao|010-1212121|002345-00-1234|hao@gmail.com|abcde123|2
+ST005|jocelyn|012-1234567|030000-00-1234|weii@gmail.com|jiinweii|1
+ST006|wernjia|012-3456789|011212-12-1212|wj@gmail.com|11111111|2

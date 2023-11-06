@@ -1,0 +1,31 @@
+F02|Yellow Rose|2|130|30|30
+F03|Champagne Rose|2.5|370|30|30
+F04|Purple Rose|2|63|30|30
+F05|White Rose|2.5|70|30|30|
+F06|Pink Rose|2|69|30|30
+F07|White Gerbera Daisy|3|70|30|30|
+F08|Pink Gerbera Daisy|3|70|30|30|
+F09|Baby's breath|5|70|30|30|
+F10|Chamomile|3|61|30|30
+F11|Pink Daisy|5|70|30|30|
+F12|White Lily|5|70|30|30|
+F13|Orange Tulip|5|70|30|30|
+F14|Pink tulip|5|70|30|30|
+F15|Carnation|6|70|30|30|
+F16|Sunflower|4|70|30|30|
+F17|White Orchid|4|70|30|30|
+F18|Pink Orchid|4|70|30|30|
+F19|White Ping Pong|5|70|30|30|
+F20|White Anastasia|3|70|30|30|
+F21|Twinkle (baby's breath & chamomile)|109|30|30|30
+F22|Graduation (sunflowers & baby's breath)|119|70|30|30|
+F23|Sweet Serenity (pink & red roses)|129.0|70|30|30|
+F24|My Only (White, Champagne Rose & chamomile)|149|70|30|30|
+F25|Lil Adorie (red rose & baby's breath)|119|70|30|30|
+F26|Graceful (White & pink tulips)|129|70|30|30|
+F27|Marilyn Pink (Pink roses, Carnation, ping pong)|149|70|30|30|
+F28|Forever miss (White roses, Lily, orchids)|219|70|30|30|
+F29|First Love (Pink, white, champagne roses, Oxypetalum)|219|70|30|30|
+F30|Gorgeous You (Orange Tulips & Chamomiles)|129|60|30|30
+
+
